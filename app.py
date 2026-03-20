@@ -172,3 +172,5 @@ if st.button("🚀 Run AI Analysis"):
 # ---------------- FOOTER ----------------
 st.markdown("---")
 st.caption("🌿 AI-based Environmental Intelligence • Built with Streamlit")
+
+#----------------Completed---------------
